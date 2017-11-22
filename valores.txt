@@ -1,2 +1,3 @@
 add teste1
 add teste2
+add teste3
