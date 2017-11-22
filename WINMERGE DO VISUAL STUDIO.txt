@@ -1,0 +1,5 @@
+C:\Program Files (x86)\WinMerge\WinMergeU.exe
+/u /e /x /wl /maximize /dl %6 /dr %7 %1 %2
+
+C:\Program Files (x86)\WinMerge\WinMergeU.exe
+/u /e /wl /maximize /dl %6 /dr %7 %1 %2 %4
